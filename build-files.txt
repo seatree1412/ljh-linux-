@@ -1,0 +1,5 @@
+lib/add.o:    ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
+lib/sub.o:    ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
+lib/libcal.a: current ar archive
+main:         ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.32, BuildID[sha1]=d1ab5e1fe6c2b1d5d0c1b714ab34ff68616c82e1, not stripped
+main-v1:      ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.32, BuildID[sha1]=d1ab5e1fe6c2b1d5d0c1b714ab34ff68616c82e1, not stripped
